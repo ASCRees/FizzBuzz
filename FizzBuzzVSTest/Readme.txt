@@ -1,0 +1,1 @@
+﻿After cloning run "Update-package - reinstall" in Package Manager console. 
