@@ -17,6 +17,5 @@ function executeFizzBuzz(arrayval, maxLength) {
     for (var i = 1; i <= maxLength; i++) {
         var output = buildFizzBuzzOutput(arrayval, i);
         outputFizzBuzz.innerHTML += i+" - "+ (output || i) + "<br/>";
-        //console.log(output || i);
     }
 }
