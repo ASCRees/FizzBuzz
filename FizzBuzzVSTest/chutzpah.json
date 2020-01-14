@@ -1,0 +1,9 @@
+{
+	"Framework": "jasmine",
+	"References": [
+		{ "Path": "./Sources/FizzBuzzLib.js" }
+	],
+	"Tests": [
+		{ "Path": "Tests" }
+	]
+}

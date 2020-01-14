@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/_Chutzpah.coverage.html
+/.vs/FizzBuzzVSTest/v16/TestStore/0/testlog.manifest
+/.vs/FizzBuzzVSTest/v16/TestStore/0/000-0000.testlog
+/.vs/FizzBuzzVSTest/v16/Server/sqlite3/storage.ide-wal
+/.vs/FizzBuzzVSTest/v16/Server/sqlite3/storage.ide-shm
+/.vs/FizzBuzzVSTest/v16/Server/sqlite3/storage.ide
+/.vs/FizzBuzzVSTest/v16/Server/sqlite3/db.lock
+/.vs/FizzBuzzVSTest/v16/.suo
+/.vs/FizzBuzzVSTest/config/applicationhost.config
