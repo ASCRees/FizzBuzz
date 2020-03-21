@@ -1,0 +1,76 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+brand {
+    color: #f2f4f2;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #030303;
+}
+
+table#sudokutab input {
+    height: 40px;
+    text-align: right;
+}
+
+.navbar-inverse {
+    background-color: #65ee0a;
+    border-color: #080808;
+}
+
+span.field-validation-error {
+    color: red;
+}
+
+
+.entryval {
+    width: 40px;
+}
+
+table#sudokutab td {
+    width: 40px;
+}
+
+table#sudokutab td input {
+    width: 40px;
+}
+
+table .gridbottomright {
+    border-right: solid;
+    border-bottom: solid;
+    border-right-width: thick;
+    border-bottom-width: thick;
+}
+
+table .gridbottom {
+    border-bottom: solid;
+    border-bottom-width: thick;
+}
+
+table .gridright {
+    border-right: solid;
+    border-right-width: thick;
+}
