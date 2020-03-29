@@ -9,3 +9,5 @@ The code includes Jasmine testing of the library functions.
 The Jasmine tests can be run from the test explorer in Visual Studio. 
 
 This uses the Chutzpah framework to enable them to be visible. Note Chutzpah does not work with ES6. 
+
+![image](https://user-images.githubusercontent.com/28151071/77850020-b0fca780-71c7-11ea-9fdf-b82c4e2c0331.png)
